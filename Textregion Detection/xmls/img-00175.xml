@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>img-00175.jpg</filename>
+    <size>
+        <width>2397</width>
+        <height>3484</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>word</name>
+        <bndbox>
+            <xmin>781</xmin>
+            <ymin>1000</ymin>
+            <xmax>1740</xmax>
+            <ymax>1285</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>word</name>
+        <bndbox>
+            <xmin>797</xmin>
+            <ymin>531</ymin>
+            <xmax>1639</xmax>
+            <ymax>870</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>word</name>
+        <bndbox>
+            <xmin>785</xmin>
+            <ymin>59</ymin>
+            <xmax>1497</xmax>
+            <ymax>424</ymax>
+        </bndbox>
+    </object>
+</annotation>

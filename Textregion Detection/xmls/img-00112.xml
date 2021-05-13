@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>img-00112.jpg</filename>
+    <size>
+        <width>2397</width>
+        <height>3484</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>word</name>
+        <bndbox>
+            <xmin>570</xmin>
+            <ymin>863</ymin>
+            <xmax>2141</xmax>
+            <ymax>1318</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>word</name>
+        <bndbox>
+            <xmin>572</xmin>
+            <ymin>1385</ymin>
+            <xmax>2123</xmax>
+            <ymax>2089</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>word</name>
+        <bndbox>
+            <xmin>768</xmin>
+            <ymin>2389</ymin>
+            <xmax>1980</xmax>
+            <ymax>2652</ymax>
+        </bndbox>
+    </object>
+</annotation>

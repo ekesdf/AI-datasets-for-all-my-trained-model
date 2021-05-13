@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>img-00006.jpg</filename>
+    <size>
+        <width>2397</width>
+        <height>3484</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>word</name>
+        <bndbox>
+            <xmin>453</xmin>
+            <ymin>22</ymin>
+            <xmax>984</xmax>
+            <ymax>144</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>word</name>
+        <bndbox>
+            <xmin>415</xmin>
+            <ymin>152</ymin>
+            <xmax>1938</xmax>
+            <ymax>611</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>word</name>
+        <bndbox>
+            <xmin>462</xmin>
+            <ymin>669</ymin>
+            <xmax>1920</xmax>
+            <ymax>1120</ymax>
+        </bndbox>
+    </object>
+</annotation>

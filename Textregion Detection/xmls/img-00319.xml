@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>img-00319.jpg</filename>
+    <size>
+        <width>2397</width>
+        <height>3484</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>word</name>
+        <bndbox>
+            <xmin>837</xmin>
+            <ymin>249</ymin>
+            <xmax>2018</xmax>
+            <ymax>721</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>word</name>
+        <bndbox>
+            <xmin>680</xmin>
+            <ymin>56</ymin>
+            <xmax>1749</xmax>
+            <ymax>226</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>word</name>
+        <bndbox>
+            <xmin>982</xmin>
+            <ymin>1295</ymin>
+            <xmax>1965</xmax>
+            <ymax>1452</ymax>
+        </bndbox>
+    </object>
+</annotation>

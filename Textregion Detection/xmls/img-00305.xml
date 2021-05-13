@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>img-00305.jpg</filename>
+    <size>
+        <width>2397</width>
+        <height>3484</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>word</name>
+        <bndbox>
+            <xmin>544</xmin>
+            <ymin>139</ymin>
+            <xmax>2124</xmax>
+            <ymax>516</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>word</name>
+        <bndbox>
+            <xmin>425</xmin>
+            <ymin>18</ymin>
+            <xmax>1632</xmax>
+            <ymax>133</ymax>
+        </bndbox>
+    </object>
+</annotation>

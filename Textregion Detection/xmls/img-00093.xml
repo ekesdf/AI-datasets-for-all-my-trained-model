@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>img-00093.jpg</filename>
+    <size>
+        <width>2397</width>
+        <height>3484</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>word</name>
+        <bndbox>
+            <xmin>828</xmin>
+            <ymin>-2</ymin>
+            <xmax>2089</xmax>
+            <ymax>176</ymax>
+        </bndbox>
+    </object>
+</annotation>
