@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>1300.jpg</filename>
+    <size>
+        <width>832</width>
+        <height>832</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Char</name>
+        <bndbox>
+            <xmin>386.22</xmin>
+            <ymin>321.89</ymin>
+            <xmax>414.3</xmax>
+            <ymax>374.51</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Char</name>
+        <bndbox>
+            <xmin>432.63</xmin>
+            <ymin>338.45</ymin>
+            <xmax>457.46</xmax>
+            <ymax>373.62</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Char</name>
+        <bndbox>
+            <xmin>432.04</xmin>
+            <ymin>463.77</ymin>
+            <xmax>456.86</xmax>
+            <ymax>490.38</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Char</name>
+        <bndbox>
+            <xmin>376.76</xmin>
+            <ymin>447.22</ymin>
+            <xmax>409.57</xmax>
+            <ymax>499.24</ymax>
+        </bndbox>
+    </object>
+</annotation>

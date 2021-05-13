@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>1110.jpg</filename>
+    <size>
+        <width>832</width>
+        <height>832</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Char</name>
+        <bndbox>
+            <xmin>379.82</xmin>
+            <ymin>405.39</ymin>
+            <xmax>434.71</xmax>
+            <ymax>446.31</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Char</name>
+        <bndbox>
+            <xmin>433.44</xmin>
+            <ymin>376.16</ymin>
+            <xmax>464.95</xmax>
+            <ymax>451.9</ymax>
+        </bndbox>
+    </object>
+</annotation>

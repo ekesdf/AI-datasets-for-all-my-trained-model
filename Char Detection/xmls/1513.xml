@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>1513.jpg</filename>
+    <size>
+        <width>832</width>
+        <height>832</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Char</name>
+        <bndbox>
+            <xmin>399</xmin>
+            <ymin>394</ymin>
+            <xmax>434</xmax>
+            <ymax>453</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Char</name>
+        <bndbox>
+            <xmin>437</xmin>
+            <ymin>434</ymin>
+            <xmax>455</xmax>
+            <ymax>456</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Char</name>
+        <bndbox>
+            <xmin>364</xmin>
+            <ymin>366</ymin>
+            <xmax>392</xmax>
+            <ymax>483</ymax>
+        </bndbox>
+    </object>
+</annotation>

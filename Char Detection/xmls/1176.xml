@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<annotation>
+    <filename>1176.jpg</filename>
+    <size>
+        <width>832</width>
+        <height>832</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>Char</name>
+        <bndbox>
+            <xmin>304.01</xmin>
+            <ymin>372.7</ymin>
+            <xmax>354.56</xmax>
+            <ymax>433.29</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Char</name>
+        <bndbox>
+            <xmin>345.1</xmin>
+            <ymin>413.19</ymin>
+            <xmax>362.54</xmax>
+            <ymax>429.74</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Char</name>
+        <bndbox>
+            <xmin>377.61</xmin>
+            <ymin>369.45</ymin>
+            <xmax>460.08</xmax>
+            <ymax>442.45</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>Char</name>
+        <bndbox>
+            <xmin>462.15</xmin>
+            <ymin>369.15</ymin>
+            <xmax>515.94</xmax>
+            <ymax>435.66</ymax>
+        </bndbox>
+    </object>
+</annotation>
